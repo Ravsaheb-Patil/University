@@ -1,0 +1,5 @@
+package Com.BikkadITCrud.model;
+
+public class Student {
+
+}

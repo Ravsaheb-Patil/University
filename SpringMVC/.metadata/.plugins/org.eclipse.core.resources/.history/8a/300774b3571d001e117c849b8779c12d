@@ -1,0 +1,14 @@
+package Com.BikkadITCrud.Controller;
+
+import org.springframework.stereotype.Controller;
+
+import Com.BikkadITCrud.Service.StudentServiceI;
+
+@Controller
+public class StudentConstroller {
+
+	private StudentServiceI serviceI;
+	
+	
+	
+}

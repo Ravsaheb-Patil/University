@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;SpringMVCFirstApp-Practice/src/main/webapp/Pages/student.jsp&apos; to &apos;Student.jsp&apos;" description="Rename resource &apos;student.jsp&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="src/main/webapp/Pages/student.jsp" name="Student.jsp" stamp="1687848718088" updateReferences="true"/>
+</session>

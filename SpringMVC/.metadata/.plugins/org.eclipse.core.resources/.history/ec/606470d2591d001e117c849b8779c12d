@@ -1,0 +1,5 @@
+package Com.BikkadITCrud.Service;
+
+public interface StudentServiceI {
+
+}

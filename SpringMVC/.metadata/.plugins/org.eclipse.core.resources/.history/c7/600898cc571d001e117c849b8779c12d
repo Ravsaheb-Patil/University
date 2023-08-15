@@ -1,0 +1,8 @@
+package Com.BikkadITCrud.Service;
+
+import org.springframework.stereotype.Service;
+
+@Service
+public class StudentServiceIMPL implements StudentServiceI {
+
+}

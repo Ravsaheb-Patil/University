@@ -1,0 +1,14 @@
+package Com.BikkadITCrud.Controller;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.stereotype.Controller;
+
+import Com.BikkadITCrud.Service.StudentServiceI;
+
+@Controller
+public class StudentConstroller {
+
+	@Autowired
+	private StudentServiceI serviceI;
+
+}

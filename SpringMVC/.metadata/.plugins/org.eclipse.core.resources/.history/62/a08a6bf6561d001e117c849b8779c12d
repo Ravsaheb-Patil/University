@@ -1,0 +1,9 @@
+package Com.BikkadITCrud.Repository;
+
+import org.springframework.data.jpa.repository.JpaRepository;
+
+import Com.BikkadITCrud.model.Student;
+
+public interface StudentRepository extends JpaRepository<Studente, Integer> {
+
+}

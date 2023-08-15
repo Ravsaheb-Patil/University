@@ -1,0 +1,5 @@
+package Com.BikkadITCrud.Repository;
+
+public interface StudentRepository {
+
+}
